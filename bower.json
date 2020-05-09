@@ -6,7 +6,7 @@
   "description": "timer",
   "main": "main.js",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/4KITLER/clocktimer",
   "private": true,
   "ignore": [
     "**/.*",
